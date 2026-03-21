@@ -1,15 +1,6 @@
 ---
 title: Menu principal
 items:
-- title: Expositions
-  slug: expositions
-  target: "/expositions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
 - title: Organisations
   slug: organisations
   target: "/organisations/"
@@ -46,4 +37,13 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
+- title: Expositions
+  slug: expositions
+  target: "/expositions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/exhibitions"
+  file: content/fr/exhibitions/_index.html
 
